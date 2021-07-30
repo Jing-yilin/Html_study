@@ -1,0 +1,38 @@
+.pic1 {
+    width: 90%;
+    margin-top: 30px;
+    border-radius: 25px;
+    background: linear-gradient(225deg, #959090, #b2abab);
+    box-shadow:  -9px 9px 19px rgb(61, 73, 129),
+                9px -9px 19px rgb(41, 30, 64);
+}
+
+.album {
+    width: 90%;
+    margin-top: 30px;
+    margin-left: 130px;
+    margin-right: 70px;
+}
+
+.pic2 {
+    float: left;
+    width: 200px;
+    height: 200px;
+    border-radius: 13px;
+    background: #b72424;
+}
+
+.albumTitle {
+    margin-left: 70px;
+    line-height: 30px;
+    font-size: 40px;
+    color: rgb(250, 250, 250);
+}
+
+.albumContent {
+    line-height: 30px;
+    margin-left: 250px;
+    margin-right: 50px;
+    text-indent: 5px;
+    color: rgb(250, 250, 250);
+}
